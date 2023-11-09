@@ -1,3 +1,6 @@
 [submodule "portfolio"]
 	path = portfolio
 	url = https://github.com/Ross-Doyle/portfolio.git
+[submodule "Google-Cyclistic-Project"]
+	path = Google-Cyclistic-Project
+	url = https://github.com/Ross-Doyle/Google-Cyclistic-Project.git
